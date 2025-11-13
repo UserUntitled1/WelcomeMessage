@@ -1,0 +1,8 @@
+name: KofhCustomWelcomeMessage
+version: '1.0-SNAPSHOT'
+main: me.kofhwig.kofhCustomWelcomeMessage.KofhCustomWelcomeMessage
+api-version: '1.21'
+load: STARTUP
+authors: [ Kofhwig ]
+description: A plugin made by kofhwig (https://github.com/UserUntitled1)
+website: https://github.com/UserUntitled1
