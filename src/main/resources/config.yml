@@ -1,0 +1,3 @@
+welcome-message: "#EED9C4Welcome &b%player% #EED9Cfto the #EED9C4Server!"
+broadcast-message: "&7Everyone welcome #EED9C4%player% &7to the server!"
+active-broadcast: true
